@@ -1,8 +1,8 @@
-# GitLab repositories downloader
+# Fork of GitLab repositories downloader
 
 Bash script to easily mass-download repos from a GitLab instance.
 
-Get yourself an API token from you GitLab instance then export `GITLAB_URL` and `GITLAB_ENV`.
+Get yourself an API token from you GitLab instance then export `GITLAB_URL` and `GITLAB_TOKEN`.
 
 The script assume you will clone/pull over SSH.
 
